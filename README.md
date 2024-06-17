@@ -13,3 +13,6 @@ The app will follow a client-server architecture, with a frontend client communi
 
 # Data Model 
 ![The Curated Shelf drawio](https://github.com/willshepp28/The-Curated-Shelf-Client/assets/28759252/340b625c-6767-474b-aef0-31d3a31860ec)
+
+# Wireframes
+<img width="571" alt="Screenshot 2024-06-17 at 4 00 58 PM" src="https://github.com/willshepp28/The-Curated-Shelf-Client/assets/28759252/7301d41b-485c-4106-8da3-ef4ed552fb36">
