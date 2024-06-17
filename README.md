@@ -1,9 +1,12 @@
-# React + Vite
+# The-Curated-Shelf
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Architecture:
 
-Currently, two official plugins are available:
+The app will follow a client-server architecture, with a frontend client communicating with a backend server over HTTP(S).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# The-Curated-Shelf-Client
+## Features
+
+- User Accounts: Support user registration, authentication.
+- Book Browsing and Search: Allow users to browse and search for books by title, author, genre, or other criteria.
+- Book Details: Provide detailed information about each book, including title, author, description, cover image, and availability status.
+- Lending/Borrowing Management: Implement a system for users to borrow and return books, with due dates and overdue notifications.
